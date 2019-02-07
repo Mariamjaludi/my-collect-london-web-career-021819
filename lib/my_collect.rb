@@ -9,4 +9,3 @@ def my_collect(array) # put argument(s) here
 
   array
 end
-
